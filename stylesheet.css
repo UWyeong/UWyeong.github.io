@@ -7,6 +7,7 @@ body {
 	margin: 0 auto;
 	background-color: #f5f5f5;
 }
+
 .two-column {
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -16,7 +17,7 @@ nav {
 	padding: 10px;
 	margin: 10px;
 	color: 222222;
-	background-color: #dddddd
+	background-color: #bbbbbb
 }
 
 li { display: inline;
@@ -30,7 +31,7 @@ section {
 }
 
 main {
-	background-color: #dddddd;
+	background-color: #bbbbbb;
 	padding: 10px;
 	margin: 10px;
 	color: 222222;
@@ -42,7 +43,7 @@ article {
 	color: 222222;
 	padding: 10px;
 	margin: 10px;
-	background-color: #dddddd
+	background-color: #bbbbbb
 }
 
 .mart {
@@ -50,7 +51,7 @@ article {
 }
 
 footer {
-	background-color: #dddddd;
+	background-color: #bbbbbb;
 	padding: 10px;
 	margin: 10px;
 }
