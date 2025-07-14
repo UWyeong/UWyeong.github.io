@@ -16,7 +16,7 @@ body {
 nav {
 	padding: 10px;
 	margin: 10px;
-	color: 222222;
+	color: #222222;
 	background-color: #bbbbbb
 }
 
@@ -34,24 +34,25 @@ main {
 	background-color: #bbbbbb;
 	padding: 10px;
 	margin: 10px;
-	color: 222222;
+	color: #222222;
 }
 
 article {
 	float: left;
 	width: 280px;
-	color: 222222;
+	color: #222222;
 	padding: 10px;
 	margin: 10px;
 	background-color: #bbbbbb
 }
 
 .mart {
-	background-color: #efefafx;
+	background-color: #efefaf;
 }
 
 footer {
 	background-color: #bbbbbb;
 	padding: 10px;
 	margin: 10px;
+	color: #222222;
 }
