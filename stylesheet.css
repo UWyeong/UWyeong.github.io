@@ -15,7 +15,10 @@ body {
 nav {
 	padding: 10px;
 	margin: 10px;
-	background-color: #dddddd}
+	color: 222222;
+	background-color: #dddddd
+}
+
 li { display: inline;
 	padding: 5px;
 	overflow: auto;
@@ -30,11 +33,13 @@ main {
 	background-color: #dddddd;
 	padding: 10px;
 	margin: 10px;
+	color: 222222;
 }
 
 article {
 	float: left;
 	width: 280px;
+	color: 222222;
 	padding: 10px;
 	margin: 10px;
 	background-color: #dddddd
