@@ -15,7 +15,7 @@ body {
 nav {
 	padding: 10px;
 	margin: 10px;
-	background-color: #efefef}
+	background-color: #dddddd}
 li { display: inline;
 	padding: 5px;
 	overflow: auto;
@@ -27,7 +27,7 @@ section {
 }
 
 main {
-	background-color: #efefef;
+	background-color: #dddddd;
 	padding: 10px;
 	margin: 10px;
 }
@@ -37,7 +37,7 @@ article {
 	width: 280px;
 	padding: 10px;
 	margin: 10px;
-	background-color: #efefef
+	background-color: #dddddd
 }
 
 .mart {
@@ -45,7 +45,7 @@ article {
 }
 
 footer {
-	background-color: #efefef;
+	background-color: #dddddd;
 	padding: 10px;
 	margin: 10px;
 }
