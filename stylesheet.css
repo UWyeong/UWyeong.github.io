@@ -17,7 +17,7 @@ nav {
 	padding: 10px;
 	margin: 10px;
 	color: #222222;
-	background-color: #bbbbbb
+	background-color: #efefaf;
 }
 
 li { display: inline;
@@ -31,7 +31,7 @@ section {
 }
 
 main {
-	background-color: #bbbbbb;
+	background-color: #efefaf;
 	padding: 10px;
 	margin: 10px;
 	color: #222222;
@@ -43,7 +43,7 @@ article {
 	color: #222222;
 	padding: 10px;
 	margin: 10px;
-	background-color: #bbbbbb
+	background-color: #efefaf;
 }
 
 .mart {
@@ -51,7 +51,7 @@ article {
 }
 
 footer {
-	background-color: #bbbbbb;
+	background-color: #efefaf;
 	padding: 10px;
 	margin: 10px;
 	color: #222222;
